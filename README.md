@@ -5,7 +5,8 @@ I'm an Entry-level ML-engineer from Moscow 👩‍💻
 ## **🚀 About Me**  
 Bauman university student. Currently learning Data Science and Machine Learning,  
 and seeking ways to apply my skills and continue growing in the field
-Worked at Yandex | Autonomous vehicles, AI Operator
+
+Worked at Yandex | Autonomous vehicles as ML Engineer
 
 ## **Connect with me:**  
 [<img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/c256e43d-3c2c-45aa-80d2-00ebeb9baec9" />](work.nguyen02@gmail.com)
